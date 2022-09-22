@@ -391,7 +391,7 @@
       "__id__": 2
     },
     "component": "game",
-    "handler": "onCaptureClickk",
+    "handler": "onCaptureClick",
     "customEventData": ""
   },
   {

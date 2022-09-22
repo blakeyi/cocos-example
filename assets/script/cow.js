@@ -27,6 +27,7 @@ cc.Class({
 
     // called every frame, uncomment this function to activate update callback
     update: function (dt) {
+        cc.log("update")
         this.intervalTime += dt
         let index = Math.floor(this.intervalTime / 0.2)
         index = index % 3
@@ -39,5 +40,7 @@ cc.Class({
     
     runCallback:function() {
         this.randomType = Math.floor(Math.random()*3)
+        cc.log("runCallback: ", this.randomType)
+        cc.log(this.node.x)
     }
 });

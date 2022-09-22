@@ -12,46 +12,16 @@
       "x": [
         {
           "frame": 0,
-          "value": 947
+          "value": 465
         },
         {
           "frame": 3,
-          "value": -470
+          "value": -606
         }
       ]
     }
   },
   "events": [
-    {
-      "frame": 0,
-      "func": "",
-      "params": []
-    },
-    {
-      "frame": 0,
-      "func": "",
-      "params": []
-    },
-    {
-      "frame": 0,
-      "func": "",
-      "params": []
-    },
-    {
-      "frame": 0,
-      "func": "",
-      "params": []
-    },
-    {
-      "frame": 0,
-      "func": "",
-      "params": []
-    },
-    {
-      "frame": 0,
-      "func": "",
-      "params": []
-    },
     {
       "frame": 3,
       "func": "runCallback",
